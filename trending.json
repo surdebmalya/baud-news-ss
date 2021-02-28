@@ -1,1 +1,266 @@
-
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express Web Desk",
+      "title": "PM Modi ‘Mann Ki Baat’ Live updates: ‘Aatmanirbhar Bharat not just govt policy, it’s national spirit,’ says PM - The Indian Express",
+      "description": "PM Narendra Modi Mann Ki Baat Today Speech Live Latest News Updates: Earlier this month, PM Modi had invited the people of the country to share inspiring stories in the field of art, culture and tourism.",
+      "url": "https://indianexpress.com/article/india/pm-narendra-modi-mann-ki-baat-live-updates-7208013/",
+      "urlToImage": "https://images.indianexpress.com/2021/02/Modi-JNU-main.jpg",
+      "publishedAt": "2021-02-28T06:15:28Z",
+      "content": "In the previous episode of his radio programme, the Prime Minister had condemned the violence that broke out in the National Capital between protesting farmers and the Delhi Police on Republic Day.(P… [+1470 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Ajay Pal Singh",
+      "title": "\"Seems To Start Crying About It\": Nathan Lyon Hits Out At Ahmedabad Pitch Critics - NDTVSports.com",
+      "description": "Nathan Lyon has extended his support to the Ahmedabad pitch that was criticised by many former cricketers after the third Test between India and England finished inside two days.",
+      "url": "https://sports.ndtv.com/india-vs-england-2020-21/ind-vs-eng-nathan-lyon-hits-out-at-ahmedabad-pitch-critics-2380335",
+      "urlToImage": "https://c.ndtvimg.com/2021-02/0rt7pdm8_nathan-lyon-twitter_625x300_28_February_21.jpg",
+      "publishedAt": "2021-02-28T05:46:00Z",
+      "content": "Nathan Lyon hit out at the critics of the pitch that was used in the third Test between India and England in Ahmedabad. The match ended inside two days with spinners picking up 28 out of the 30 wicke… [+1417 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Firstpost"
+      },
+      "author": null,
+      "title": "We have telescopes in space, rovers on other worlds – our search for alien life continues - Firstpost",
+      "description": "Ladakh, with its glacial pools, salt-water lakes, hot springs and frozen soils, is an excellent Mars analogue, only being recognized, after international expeditions from 2016 onwards.",
+      "url": "https://www.firstpost.com/tech/science/we-have-telescopes-in-space-rovers-on-other-worlds-our-search-for-alien-life-continues-9352141.html",
+      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2019/10/alien-sky.jpg",
+      "publishedAt": "2021-02-28T05:44:10Z",
+      "content": "Siddharth PandeyFeb 28, 2021 11:14:10 IST\r\nFor more than a century, our imagination has fuelled our search for aliens. We have envisioned them as giant robots, little green men, or slimy creatures. A… [+7498 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "COVID 19: How coronavirus can impact your liver and ways to keep your liver healthy - Times of India",
+      "description": "Coronavirus pandemic has wreaked havoc in our lives.",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-19-how-coronavirus-can-impact-your-liver-and-ways-to-keep-your-liver-healthy/photostory/81244988.cms",
+      "urlToImage": "https://static.toiimg.com/photo/81245014.cms",
+      "publishedAt": "2021-02-28T05:30:00Z",
+      "content": "Proper treatment of existing medical conditions, including liver disease, decreases the chances of severe COVID 19. Thus, people must continue taking the medicines as prescribed by their healthcare p… [+595 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "E-Gita, PM Modi's Picture, 19 Satellites: ISRO Flags Off 2021 In Style - NDTV",
+      "description": "The Indian Space Research Organisation's (ISRO) PSLV-C51 blasted off the agency's launchpad at the  Satish Dhawan Space Centre, SHAR, Sriharkota, today, a little before 10.30 am, carrying 19 payloads and ringing in its schedule for 2021 in all glory.",
+      "url": "https://www.ndtv.com/india-news/isro-launches-brazils-amazonia-1-satellite-18-co-passenger-satellites-in-first-lift-off-this-year-2380313",
+      "urlToImage": "https://c.ndtvimg.com/2021-02/9ic38um8_amazonia-1-launch-isro_650x400_28_February_21.jpg",
+      "publishedAt": "2021-02-28T05:05:05Z",
+      "content": "ISRO PSLV-C51 Mission: Brazil's Amazonia-1 was among the 19 satellites launched today.\r\nNew Delhi: The Indian Space Research Organisation's (ISRO) PSLV-C51 blasted off the agency's launchpad at the S… [+1848 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Amitabh Bachchan Shares An Update On His Health, Writes About Undergoing A Surgery - NDTV",
+      "description": "\"Medical condition... Surgery ... Can't write,\" Amitabh Bachchan wrote in his blog entry",
+      "url": "https://www.ndtv.com/entertainment/amitabh-bachchan-shares-an-update-on-his-health-writes-about-undergoing-a-surgery-2380294",
+      "urlToImage": "https://c.ndtvimg.com/2021-02/6d30r31_amitabh-bachchan_625x300_28_February_21.jpg",
+      "publishedAt": "2021-02-28T04:02:53Z",
+      "content": "Amitabh Bachchan shared this image. (courtesy amitabhbachchan)\r\nHighlights\r\n<ul><li>Big B did not share details about his medical condition\r\n</li><li> Big B was shooting for 'MayDay' in Mumbai\r\n</li>… [+1632 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Who Was Gangubai Kathiawadi: The Woman Alia Bhatt Will Portray In Her Latest Film - NDTV",
+      "description": "Actress Alia Bhatt will next been seen in Gangubai Kathiawadi, in which she will play the titular role. Gangubai Kathiawadi is based on the life of Gangubai Kathewali, a brothel owner in Mumbai's Kamathipura area.",
+      "url": "https://www.ndtv.com/offbeat/who-was-gangubai-kathiawadi-the-woman-alia-bhatt-will-portray-in-her-latest-film-2380290",
+      "urlToImage": "https://c.ndtvimg.com/2021-02/5mhi5log_gangubai-kathiawadi-_625x300_28_February_21.jpg",
+      "publishedAt": "2021-02-28T03:58:27Z",
+      "content": "Alia Bhatt will play the role of Gangubai Kathiawadi.\r\nActress Alia Bhatt will next been seen in Gangubai Kathiawadi, in which she will play the titular role. Gangubai Kathiawadi is based on the life… [+2072 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "96% people faced drop in earnings during lockdown: Survey - Moneycontrol",
+      "description": "Job losses and non-availability of casual work were the key reasons for this, and every fifth respondent was forced to go hungry because of no money to buy food, Mukta Srivastava, the state''s convener for the Anna Adhikar Abhiyan, told reporters here on Satu…",
+      "url": "https://www.moneycontrol.com/news/india/96-people-faced-drop-in-earnings-during-lockdown-survey-6584371.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/07/rupee-653x435.jpg",
+      "publishedAt": "2021-02-28T03:46:00Z",
+      "content": "Nearly 96 percent of the people surveyed under a food rights campaign in Maharashtra faced a drop in their earnings during the coronavirus-induced lockdown last year, claims a social body.\r\nJob losse… [+2231 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": null,
+      "title": "Google Discover starts surfacing YouTube content in ‘Short videos’ carousel - 9to5Google",
+      "description": "Back in August, Google Discover started surfacing \"Short videos\" to join webpages, videos, and Web Stories. Google Discover YouTube Shorts...",
+      "url": "https://9to5google.com/2021/02/27/google-discover-youtube-shorts/",
+      "urlToImage": "https://i2.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/01/google-discover-samsung-galaxy-s21.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2021-02-28T03:20:00Z",
+      "content": "Back in August, Google Discover started surfacing “Short videos” to join webpages, regular videos, and later AMP-based Web Stories. Ahead of the beta coming to the US next month, Google is testing Yo… [+2078 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Tech",
+      "title": "Realme GT 5G’s Geekbench listing reveals 12GB RAM, Android 11 - HT Tech",
+      "description": "Realme GT 5G will launch on March 4. Here is what we know about the upcoming smartphone so far.",
+      "url": "https://tech.hindustantimes.com/mobile/news/realme-gt-5g-s-geekbench-listing-reveals-12gb-ram-android-11-71614481441872.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2021/02/28/600x338/Realme_7-1_1614430491757_1614430508861_1614481576473.jpeg",
+      "publishedAt": "2021-02-28T03:04:01Z",
+      "content": "Realme is building hype around its upcoming premium phone, Realme GT, through a series of official teasers. The company has also revealed some of the features of the phone. Besides teasers, Realme GT… [+1706 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Rs 220 Crore In Black Money Detected After Raids On Chennai-Based Company - NDTV",
+      "description": "The Income Tax Department has detected undisclosed income of about Rs 220 crore after it raided a leading tiles and sanitaryware manufacturer based in Chennai, the Central Board of Direct Taxes (CBDT) said.",
+      "url": "https://www.ndtv.com/india-news/rs-220-crore-in-black-money-detected-after-raids-on-chennai-based-company-2380273",
+      "urlToImage": "https://c.ndtvimg.com/2020-05/j06vvfa4_money-generic-reuters-650_625x300_01_May_20.jpg",
+      "publishedAt": "2021-02-28T03:00:28Z",
+      "content": "Transactions to the extent of 50 per cent were out of books, the statement claimed (Representational)\r\nChennai: The Income Tax Department has detected undisclosed income of about Rs 220 crore after i… [+1604 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "K Shriniwas Rao",
+      "title": "Six cities to host IPL 2021; Mumbai says no to fans - Times of India",
+      "description": "Cricket News: Moving away from their initial plan to host the Indian Premier League’s (IPL) 2021 edition between Mumbai and Pune — and part of the playoffs and fina",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/six-cities-to-host-ipl-2021-mumbai-says-no-to-fans/articleshow/81252588.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-81252591,width-1070,height-580,imgsize-1051242,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-02-28T02:47:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "hindustantimes.com",
+      "title": "India all set for phase 2 of Covid-19 inoculation drive, jab to cost ₹250 at private hospitals - Hindustan Times",
+      "description": "The government has allowed states to use around 10,000 hospitals under Ayushman Bharat-PMJAY and 687 hospitals under CGHS as Covid-19 vaccination centres (CVCs).",
+      "url": "https://www.hindustantimes.com/india-news/india-all-set-for-phase-2-of-covid-19-inoculation-drive-jab-to-cost-rs-250-at-private-hospitals-101614478787967.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2021/02/28/1600x900/2021-02-13T075457Z_1531406080_RC2JRL96B2FB_RTRMADP_3_HEALTH-CORONAVIRUS-INDIA-VACCINE_1613797861082_1613797884225_1614478917217.JPG",
+      "publishedAt": "2021-02-28T02:33:08Z",
+      "content": "The second phase of vaccination drive against the coronavirus disease (Covid-19) drive kick starts Monday with citizens above 60 years of age and those above 45 years of age with co-morbidities eligi… [+2582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Ranveer Singh joins sister Ritika Bhavnani, parents for her birthday celebrations, did Deepika Padukone skip gathering? - Hindustan Times",
+      "description": "Ranveer Singh's sister Ritika Bhavnani celebrated her birthday on Saturday and the entire Bhavnani family came together to celebrate the occasion by stepping out for a family dinner.",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/ranveer-singh-joins-sister-ritika-bhavnani-parents-for-her-birthday-celebrations-did-deepika-padukone-skip-the-gathering-101614477675581.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2021/02/28/1600x900/bhavnanis_1614478919495_1614478938445.jpg",
+      "publishedAt": "2021-02-28T02:31:51Z",
+      "content": "Ranveer Singh and Deepika Padukone continue to keep busy with their various work assignments, however, they still manage to find time for family. On Saturday, Ranveer was spotted with his sister Riti… [+1589 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "How it Looks to Land on Mars on This Week @NASA – February 27, 2021 - NASA",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bGRSbDEwaE1tOVXSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-02-28T02:23:54Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "Reuters",
+      "title": "U.S. authorises Johnson & Johnson's COVID-19 vaccine for emergency use - The Hindu",
+      "description": "J&J's vaccine is expected to be used widely around the globe because it can be shipped and stored at normal refrigerator temperatures",
+      "url": "https://www.thehindu.com/news/international/us-authorises-johnson-johnsons-covid-19-vaccine-for-emergency-use/article33953578.ece",
+      "urlToImage": "https://www.thehindu.com/news/international/cl1syq/article33947490.ece/ALTERNATES/LANDSCAPE_615/Vaccine",
+      "publishedAt": "2021-02-28T02:14:26Z",
+      "content": "The U.S. government on Saturday authorised Johnson &amp; Johnson's single-dose COVID-19 vaccine, enabling millions more Americans to be vaccinated in the coming weeks and setting it up for additional… [+4925 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Reuters",
+      "title": "Warren Buffett's $10 billion mistake: Precision Castparts - Mint",
+      "description": "Precision shed more than 13,400 jobs, or 40% of its workforce, in 2020, and only recently has begun to improve margins, Berkshire said.'I'll make more mistakes in the future - you can bet on that,' Warren Buffett wrote",
+      "url": "https://www.livemint.com/companies/people/warren-buffett-s-10-billion-mistake-precision-castparts-11614471955413.html",
+      "urlToImage": "https://images.livemint.com/img/2021/02/28/600x338/2021-02-27T150736Z_1376320881_RC231M95JF4T_RTRMADP_3_BERKSHIRE-BUFFETT_1614472462611_1614472481973.JPG",
+      "publishedAt": "2021-02-28T00:35:25Z",
+      "content": "Warren Buffett makes mistakes too.The 90-year-old billionaire on Saturday admitted he \"paid too much\" when his Berkshire Hathaway Inc spent $32.1 billion in 2016 to buy aircraft and industrial parts … [+1765 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sushmi Dey",
+      "title": "Registration for next round of Covid vaccination likely to start Monday - Times of India",
+      "description": "India News: “Co-Win as well as other IT applications and platforms will go live from Monday morning around 10 am. People will be required to just fill in a few de",
+      "url": "https://timesofindia.indiatimes.com/india/registration-for-next-round-of-covid-vaccination-likely-to-start-monday/articleshow/81250876.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-81250856,width-1070,height-580,imgsize-927965,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-02-27T19:53:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft’s xCloud app for Windows: Xbox touch controls, gyro, and more - The Verge",
+      "description": "Microsoft is testing a new Xbox Game Streaming app for Windows. It includes access to steaming games from Xbox consoles, and from xCloud.",
+      "url": "https://www.theverge.com/2021/2/27/22304762/microsoft-xcloud-app-windows-xbox-touch-controls-gyro-support",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/42ej3mdIIijjy63TWR0wD5Wl6HQ=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11515155/acastro_180604_1777_xbox_0001.jpg",
+      "publishedAt": "2021-02-27T18:31:54Z",
+      "content": "Microsoft is testing this new Xbox app internally\r\nIllustration by Alex Castro / The Verge\r\nMicrosoft is finalizing its Xbox Game Streaming app for Windows PCs, which includes access to streaming gam… [+1757 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "﻿Special Correspondent",
+      "title": "Coronavirus | Private hospitals can charge up to ₹250 per dose of COVID-19 vaccine - The Hindu",
+      "description": "The COVID-19 vaccine will be given free of cost at government hospitals, while people will need to pay for it at private facilities",
+      "url": "https://www.thehindu.com/sci-tech/health/covid-19-vaccine-private-hospitals-can-charge-up-to-rs-250-per-dose/article33949740.ece",
+      "urlToImage": "https://www.thehindu.com/sci-tech/health/d8b1u9/article33949739.ece/ALTERNATES/LANDSCAPE_615/image-3",
+      "publishedAt": "2021-02-27T16:32:51Z",
+      "content": "Private hospitals functioning as COVID Vaccination Centres (CVCs) may recover a charge subject to a ceiling of 250 per person per dose, the Health Ministry said on Saturday. The Ministry released a l… [+3416 chars]"
+    }
+  ]
+}
