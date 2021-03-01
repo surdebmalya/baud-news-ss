@@ -1,5 +1,5 @@
 # baud news ss 
-This is a collection of json files automated by GitHub API in the backend. These data are updated on every 2 hours interval. 
+This is a collection of json files automated by GitHub API in the backend.
 
 ## Get raw json data with get requests
 - Tech news : https://raw.githubusercontent.com/surdebmalya/baud-news-ss/main/1_tech.json
