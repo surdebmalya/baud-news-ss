@@ -1,1 +1,1 @@
-{"articles": [], "message": "Successful api call", "number_of_news": 0, "status": 200, "topic": "europe"}
+{"message": "Unprocessable API call! The format is like: https://baud-news-ss.surdebmalya11.repl.co/api/topicsq=<tech/world/india/asia/europe/america/africa/australia>&?key=YOUR_SECRET_KEY", "status": 422}
