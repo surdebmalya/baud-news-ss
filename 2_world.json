@@ -1,1 +1,1 @@
-{"message": "Unprocessable API call! The format is like: https://baud-news-ss.surdebmalya11.repl.co/api/trending?key=YOUR_SECRET_KEY", "status": 422}
+{"message": "User is not registered!", "status": 403}
